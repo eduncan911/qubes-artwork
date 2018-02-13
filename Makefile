@@ -3,7 +3,7 @@ RELEASE ?= R2-rc1
 DIRS = \
 	anaconda \
 	backgrounds \
-	grub \
+	bootloader/grub \
 	icons \
 	firstboot/qubes \
 	plymouth
